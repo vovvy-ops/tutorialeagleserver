@@ -6,4 +6,4 @@ https://github.com/lax1dude/eaglerxserver/releases
 
 ## Tutorial
 
-Watch our video tutorial: [tutorial.mp4](tutorial.mp4)
+Watch our tutorial on Vimeo: [how to setup a 24/7 server eaglercraft](https://vimeo.com/1087568771)
